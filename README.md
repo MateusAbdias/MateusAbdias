@@ -1,6 +1,6 @@
 ### Olá amigo, bem vindo ao meu repositório!
-Me chamo Mateus Abdias
-Hoje estudo UX/UI design e desenvolvimento Front-End
+<p> Me chamo Mateus Abdias </p>
+<p> Hoje estudo UX/UI design e desenvolvimento Front-End </p>
 
 <div>
   <a href="https://github.com/MateusAbdias">
