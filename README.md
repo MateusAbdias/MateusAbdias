@@ -2,7 +2,7 @@
 Me chamo Mateus Abdias
 Hoje estudo UX/UI design e desenvolvimento Front-End
 
-<div align="center">
+<div>
   <a href="https://github.com/MateusAbdias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusAbdias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAbdias&layout=compact&langs_count=7&theme=tokyonight"/>
